@@ -1,2 +1,2 @@
-# WatsonStudio
-Test for Watson Studio
+# Watson Studio Notebooks
+Test notebooks for Watson Studio
